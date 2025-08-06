@@ -19,7 +19,7 @@ Certifique-se de ter o Python 3 instalado em sua máquina.
 Executando o Projeto
 Clone o Repositório:
 
-git clone https://github.com/Gabrielferreiraav/TASK-Tracker-CLI
+git clone https://github.com/Gabrielferreiraav/TASK-Tracker-CLI.git
 cd TASK-Tracker-CLI
 
 Use os Comandos:
